@@ -1,6 +1,6 @@
 # Présentation
 
-Bienvenue dans ce recueil d'exercices pour apprendre Python au lycée.
+Bienvenue dans ce recueil d'exercices pour apprendre Python.
 
 Le but de ce recueil est de regrouper des exercices à travailler en autonomie, en classe ou à la maison, dans le but d'apprendre progressivement le langage Python. Le langage Python fait désormais partie du programme de mathématiques du lycée aussi dans ce recueil, il sera principalement mis l'accent sur des exercices mathématiques utilisant Python et non des exercices purement informatiques (même s'il y en a).
 
